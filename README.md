@@ -8,7 +8,11 @@ The driving idea of this project was to build a project that would allow me to a
 The different steps of the project are listed below:
 
 Loading and exploring the data
+
 Building the model (feature engineering)
+
 Training the model
+
 What infrastructure was used?
+
 This project relied on PyTorch and SciKit-Learn for the machine learning packages. I trained and deployed the algorithm on an AWS SageMaker notebook to discover the computational power of such instances.
